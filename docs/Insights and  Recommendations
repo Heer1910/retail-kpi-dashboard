@@ -1,12 +1,52 @@
-# Insights & Recommendations
+🔹 1. Revenue Growth Peaks Mid-Year, Sharp Drop in September
 
-## Key Insights (example – replace with what YOUR charts show)
-- Revenue trend shows seasonality and growth periods; revenue changes are primarily driven by order volume rather than large AOV shifts.
-- AOV remains relatively stable over time, suggesting limited upsell/bundling effects.
-- Delivery time trends reveal periods of operational strain where average delivery days increase.
-- Cancellation rate spikes align with periods of higher order volume, indicating potential fulfillment bottlenecks.
+Insight
+Revenue steadily grows from January to August, peaking around May–August
+A sharp decline occurs in September, followed by partial recovery
 
-## Recommendations
-- Improve logistics capacity planning for peak periods to reduce delivery time and cancellations.
-- Identify underperforming product categories/sellers driving cancellations or slower deliveries.
-- Test bundles/promotions in high-performing categories to lift AOV without hurting conversion.
+Recommendation
+Investigate September disruptions:
+logistics capacity
+supplier constraints
+platform or policy changes
+Introduce demand-stabilization tactics (promotions, inventory buffers) before peak months
+
+🔹 2. Order Volume Mirrors Revenue Decline
+
+Insight
+Order counts closely track revenue trends
+The September drop is driven primarily by lower demand, not pricing
+
+Recommendation
+Focus marketing spend and inventory planning on sustaining order volume
+Monitor early signals (order count) as a leading indicator for revenue
+
+🔹 3. AOV Remains Relatively Stable
+
+Insight
+Average Order Value stays within a narrow range (~$150–$170)
+Indicates stable customer purchasing behavior
+
+Recommendation
+Growth is volume-driven, not basket-size driven
+Upsell / cross-sell strategies could increase AOV without increasing acquisition cost
+
+🔹 4. Delivery Performance Improves Mid-Year, Then Degrades
+
+Insight
+Average delivery time improves from ~16 days to ~9 days by August
+Delivery times worsen again toward year-end
+
+Recommendation
+Replicate mid-year logistics practices
+Prepare fulfillment capacity ahead of Q4 demand spikes
+
+🔹 5. Revenue Concentration in Few Categories
+
+Insight
+Health & beauty, watches/gifts, and bed/bath/table dominate revenue
+Long tail categories contribute significantly less
+
+Recommendation
+Prioritize inventory depth and seller quality in top categories
+Test promotional bundles in mid-tier categories to diversify revenue
