@@ -11,11 +11,22 @@ Built a **star-schema** model in **BigQuery**, defined KPI logic in SQL, and cre
 
 
 ## Screenshots
-### Executive Overview / Trends
-![Executive Overview](images/RetailPerformance Dashboard - Olist(BigQuery + SQL).png)
+## Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
 
-### Product Performance
-![Product Performance](images/Top Products by Revenue.png)
+## Revenue & Orders Trends
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+![Monthly Order Trends](images/monthly_order_trends.png)
+
+## Customer Value
+![Average Order Value](images/aov_by_month.png)
+
+## Operations
+![Average Delivery Time](images/avg_delivery_time_by_month.png)
+
+## Product Performance
+![Top Categories](images/top_categories_by_revenue.png)
+![Top Products](images/top_products_by_revenue.png)
 
 ### Operations Trends
 ![Operations Trends](images/KPIs.png)
